@@ -1,6 +1,9 @@
 
 <p align="center"> <img src="./resources/logo-600-500.png" alt="DailyGood.life Logo" width="300" height="300"></p>
+
 ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/harodggg/DaliyGood.life)
+
 
 
 # 项目简介
